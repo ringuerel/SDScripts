@@ -29,3 +29,11 @@ Once the password has been placed in an accessible script, download the scripts 
     - The command on the bash-shortcuts plugin ended up like `LD_PRELOAD= QT_SCALE_FACTOR=1.25 konsole -e "/home/deck/SDScripts/scripts/zerotier_connect.sh SOME_NETWORK_ID"` for me
 - [zerotier_disconnect.sh](./scripts/zerotier_disconnect.sh): This will disconnect from the provided zerotier network
     - The command on the bash-shortcuts plugin ended up like `LD_PRELOAD= QT_SCALE_FACTOR=1.25 konsole -e "/home/deck/SDScripts/scripts/zerotier_disconnect.sh SOME_NETWORK_ID"` for me
+
+# Idea
+
+Move some configs to a separate file (i.e: instead of an echo passed password an actual config file for it, path of the scripts and maybe syncthing port)
+
+# Support
+
+Any [support](https://streamlabs.com/ringuerel/tip) will of course be welcome
